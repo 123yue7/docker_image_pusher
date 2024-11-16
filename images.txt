@@ -1,1 +1,1 @@
-zabbix/zabbix-server-mysql:latest
+provisioner:v4.0.2
